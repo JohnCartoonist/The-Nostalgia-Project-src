@@ -1,2 +1,2 @@
 # Nostalgia-Project-src
-This is the source code for a mod called the "Nostalgia project", (also known as NBX, which stands for NoBiomesX), it brings back stuff from the old days of Minecraft Java Edition (Release 1.0.0 specifically).
+This is the source code for a mod called the "Nostalgia project", (also known as NBX, which stands for NoBiomesX), it brings stuff from the old days of Minecraft Java Edition back into the game. This version of the mod is made for Release 1.0.0, and just to let you know, I didn't make this mod, I didn't work on it in any way, it is made by a user in www.minecraftforum.net called "InsanityBringer", so all of the credit goes to him, I am just a random individual who wants to preserve this mod by decompiling it into source code.
